@@ -20,6 +20,6 @@ git常用的命令：
 
 - 关联GitHub仓库
 
-  > git remote add origin https// # 复制仓库地址
+  > git remote add origin https// #复制仓库地址
   >
   > git push origin master
